@@ -1,7 +1,7 @@
 ---
 title: Rebecca Kurtz-Garica
 role: PhD Candidate in Applied Statistics
-avatar_filename: darwin.jpeg
+avatar_filename: download-1-.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
