@@ -46,4 +46,4 @@ Hello!  I am Rebecca Kurtz-Garcia.  I am a doctoral candidate for applied statis
 
 Pronouns: [she/her](https://out.ucr.edu/pronouns-matter)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
