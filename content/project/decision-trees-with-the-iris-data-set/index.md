@@ -1,7 +1,7 @@
 ---
 title: "Decision Trees with the Iris Data Set "
-subtitle: "An introduction to decision trees and classification for the MINDS
-  2021 Conference. "
+subtitle: An introduction to decision trees and classification for the MINDS
+  2021 Datathon Conference
 date: 2022-07-11T19:54:50.726Z
 draft: false
 featured: false
