@@ -8,8 +8,9 @@ featured: false
 tags:
   - workshop
 categories: []
+links: []
 image:
-  filename: featured
+  filename: https://github.com/rpkgarcia/Slides/blob/aeca48c0c82f0dab5a90311184194412d673f934/DecisionTrees2021.pdf
   focal_point: Smart
   preview_only: false
 ---
