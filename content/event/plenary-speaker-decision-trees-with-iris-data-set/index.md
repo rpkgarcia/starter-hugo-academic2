@@ -15,7 +15,7 @@ publishDate: 2022-07-11T20:04:18.397Z
 draft: false
 featured: false
 image:
-  filename: iris.webp
+  filename: https://github.com/rpkgarcia/Slides/blob/aeca48c0c82f0dab5a90311184194412d673f934/DecisionTrees2021.pdf
   focal_point: Smart
   preview_only: false
 ---
